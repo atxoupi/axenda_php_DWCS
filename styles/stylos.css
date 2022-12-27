@@ -1,0 +1,32 @@
+#titulo{
+    text-align: center;
+    font-weight: bold;
+}
+fieldset{
+    width: 50%;
+    margin: auto;
+}
+body{
+    background-color: #FA8072;
+    color:blue;
+}
+#encabezado{
+    background-color: rgb(163, 167, 167);
+    text-align: center;
+    font-weight: bold;
+}
+#tabla{
+    align-items: center;
+    border-color: aquamarine;
+    font-weight: bold;
+    
+}
+#enviar{
+    color: blue;
+}
+#limpar{
+    color: rgb(16, 184, 16);
+}
+#vaciar{
+    color: red;
+}
